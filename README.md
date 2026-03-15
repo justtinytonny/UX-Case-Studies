@@ -94,7 +94,7 @@ What I learn directly applies to UX design principles.
 
 ## Let's Connect
 
-- GitHub: [@yourusername]
+- GitHub: @justtinytonny
 - Email: tonnyb04@gmail.com
 
 *Follow along as I document my growth from creative entrepreneur to UX designer!*
